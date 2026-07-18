@@ -1,6 +1,6 @@
-# Bastian Apps
+# Angular Apps
 
-Sitio web estático para Bastian Apps, preparado para publicarse con GitHub Pages. No utiliza frameworks, backend, cookies propias ni analítica.
+Sitio web estático para Angular Apps, preparado para publicarse con GitHub Pages. No utiliza frameworks, backend, cookies propias ni analítica.
 
 ## Personalización rápida
 
